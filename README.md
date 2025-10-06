@@ -78,5 +78,3 @@ If you’d like to improve the model or add new subjects, please fork and submit
 📄 License
 This project is open-source under the MIT License.
 
-yaml
-Copy code

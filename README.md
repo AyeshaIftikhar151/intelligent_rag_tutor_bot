@@ -109,4 +109,4 @@ Secure handling of .env and local PDFs
 This project is released under the MIT License.
 Feel free to fork and extend the project for your academic or research use.
 
-💡 Built by Ayesha — making AI education intelligent and secure!
+💡 Built by Ayesha — making AI education intelligent and secure!"# intelligent_rag_tutor_bot" 

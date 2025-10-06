@@ -1,0 +1,37 @@
+# 🔒 Environment files (keep your API keys secret)
+.env
+
+# 🧠 ChromaDB vector stores
+chroma_db/
+**/chroma/
+**/chroma_db/
+
+# 🧰 Python cache and build artifacts
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+build/
+dist/
+
+# 🗂️ Logs
+logs/
+*.log
+
+# 💾 Virtual environments
+venv/
+env/
+.lanchain_env/
+.rag_env/
+.streamlit/
+.idea/
+.vscode/
+.DS_Store
+
+# 📚 PDF data or user uploads
+intelligent_tutor_bot/data/*.pdf
+
+# 🚫 OS-specific
+Thumbs.db
